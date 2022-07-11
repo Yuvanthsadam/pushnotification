@@ -1,0 +1,1 @@
+web: gunicorn pushnotification.wsgi --log-file -
